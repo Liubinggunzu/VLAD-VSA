@@ -31,15 +31,21 @@ torchvision 0.2
 ## Training
 - VLAD aggregation
 ```python
-python train_vlad_baseline.py
+python experiment/.../train_vlad_baseline.py
 ```
 - VLAD + Vocabulary adaptation 
 ```python
-python train_vlad_va.py
+python experiment/.../train_vlad_baseline2.py
 ```
-The file `config.py` contains all the hype-parameters used during training.
+- VLAD + Vocabulary adaptation + Vocabulary separation 
+```python
+python experiment/.../train_vlad_baseline3.py
+```
+The file `config.py` contains all the hype-parameters used during training. The parameters can be tuned and better performance may got.
 ## Testing
-
+```
+python experiment/.../dg_test.py
+```
 ## Citation
 Please cite this paper if the code is helpful to your research.
 ```
