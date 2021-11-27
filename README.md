@@ -14,7 +14,7 @@ pytorch 0.4
 torchvision 0.2
 
 ## Preparation
-1. Download the OULU-NPU, CASIA-FASD, Idiap Replay-Attack, and MSU-MFSD datasets.
+1. Download the OULU-NPU, CASIA-FASD, Idiap Replay-Attack, and MSU-MFSD datasets. Download the [pretrained model](https://github.com/taylover-pei/SSDG-CVPR2020/tree/master/pretrained_model) and put it in the new-created `pretrained_model` package 
 
 2. Detect, crop and resize faces to 256x256x3 using [MTCNN](https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection)
 
