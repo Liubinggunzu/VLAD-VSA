@@ -5,7 +5,7 @@ VLAD-VSA: Cross-Domain Face Presentation Attack Detection with Vocabulary Separa
 - **Vocabulary adaptation**, a general trick to improve VLAD optimization.
 - Vocabulary separation for domain generalization.
 
-These codes are mainly based on the implementation of [SSDG](https://github.com/taylover-pei/SSDG-CVPR2020), specifically thanks Yunpei Jia
+These codes are mainly based on the implementation of [SSDG](https://github.com/taylover-pei/SSDG-CVPR2020), specifically thank Yunpei Jia
 ## Dependencies
 python 3.6
 
