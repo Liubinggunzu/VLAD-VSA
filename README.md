@@ -1,5 +1,5 @@
 # VLAD-VSA  ACM MM 2021
-[VLAD-VSA: Cross-Domain Face Presentation Attack Detection with Vocabulary Separation and Adaptation.](https://arxiv.org/abs/2202.10301)
+VLAD-VSA: Cross-Domain Face Presentation Attack Detection with Vocabulary Separation and Adaptation.[pdf](https://arxiv.org/abs/2202.10301)
 
 - VLAD aggregation instead of global pooling.
 - **Vocabulary adaptation**, a general trick to improve VLAD optimization.
